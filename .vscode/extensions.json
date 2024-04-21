@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "shopify.ruby-extensions-pack",
+        "shopify.ruby-lsp",
+        "vscjava.vscode-maven"
+    ]
+}
